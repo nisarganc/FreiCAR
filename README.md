@@ -1,7 +1,7 @@
 # FreiCAR - An Autonomous Driving Project
 
 - **Vehicle Control:** The project implements PID and pure pursuit controllers for vehicle control. 
-![Week 1](1_vehiclecontrol/controller.gif)
+![Week 1](1_vehiclecontrol/pid_controller.gif)
 
 
 - **Perception:** Focuses on solving semantic segmentation and lane regression tasks for improved perception.
