@@ -10,3 +10,4 @@
 
 - **Localization:** Utilizes a particle filter for localization within the FreiCAR environment.
 ![Week 3](3_localization/localization_lowvariance.gif)
+![Week 3](3_localization/localization_roulette.gif)
